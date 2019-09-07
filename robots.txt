@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahmuavaeg.nevercinderella.com/sitemap.xml
